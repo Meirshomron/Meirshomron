@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 <!--
 **Meirshomron/Meirshomron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Meir, and I love games 😄.
+I've always had a passion for games since I was young.
+My favorite games are notably: Warcraft 1, AOE 2, HOMM 3 and Tribal Wars.
+I Started developing mini games as a teenager in Java and Unity and later pursued my passion with a degree in Computer Science.
+
+I've started by uplading some of the projects I did in my degree and continued to add here any notable project that I've afterwards.
+
+Checkout my website: <a href="https://meirshomron.github.io/">Website</a>
