@@ -19,8 +19,8 @@ I'm Meir, and I love games 😄.
 <br>
 <br>I've always had a passion for games since I was young.</br>
 My favorite games are notably: Warcraft 1, AOE 2, HOMM 3 and Tribal Wars.
-I Started developing mini games as a teenager in Java and Unity and later pursued my passion with a degree in Computer Science.
+<br>I Started developing mini games as a teenager in Java and Unity and later pursued my passion with a degree in Computer Science.</br>
 
-I've started by uplading some of the projects I did in my degree and continued to add here any notable project that I've afterwards.
+I've started by uplading some of the projects I did in my degree and continued to add here any notable project that I've done afterwards.
 
 Checkout my website: <a href="https://meirshomron.github.io/">Website</a>
